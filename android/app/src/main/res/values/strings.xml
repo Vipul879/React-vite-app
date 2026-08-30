@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Messify2</string>
+    <string name="title_activity_main">Messify2</string>
+    <string name="package_name">com.messify2.app</string>
+    <string name="custom_url_scheme">com.messify2.app</string>
+</resources>
